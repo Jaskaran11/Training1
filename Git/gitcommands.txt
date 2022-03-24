@@ -118,8 +118,11 @@ git clone url                purpose: Creating a copy of remote repository on lo
 
 -----------------------------------------------------------
 
-git branch
-* master               purpose: to know the available branches  
+git branch              purpose: to know the available branches  
+
+------------------------------------------------------------
+
+git push -u <remote> <branch-name>          purpose:to push the new branch into the remote repository
 
 ------------------------------------------------------------
 
